@@ -1,5 +1,5 @@
 # AlgorithmsImplementation
-Projects of Algorithms Design course at Yazdanpanah university > Sanandaj > Kurdistan > Iran
+Homeworks of Algorithms Design course at Yazdanpanah university > Sanandaj > Kurdistan > Iran
 
 By Shadman Kolahzary
   - http://www.kolahzary.ir/
